@@ -24,5 +24,18 @@ This is a responsive and modern **Todo Task Manager** web application built usin
 
 ---
 
-## 📁 Folder Structure
+## 📷 Demo
 
+*Add screenshots or a demo link here if available*
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Created By
+
+**Talibhusain**
