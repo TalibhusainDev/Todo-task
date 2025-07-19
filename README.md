@@ -26,15 +26,15 @@ This is a responsive and modern **Todo Task Manager** web application built usin
 
 ## 📷 Demo
 
-*Add screenshots or a demo link here if available*
+<img width="975" height="769" alt="image" src="https://github.com/user-attachments/assets/6159a3a1-27ab-4fbf-83f7-b123e82d1abc" />
+<img width="1895" height="919" alt="image" src="https://github.com/user-attachments/assets/a53b67ee-5ce8-4c03-8bdc-36f9adbcaafa" />
+<img width="1911" height="913" alt="image" src="https://github.com/user-attachments/assets/6a0c58d2-b604-4c9b-80ec-3b9c29e0706f" />
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/3dcb4cbf-2f0e-4916-aff6-b4474f7bd19b" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/4e6431df-5f38-44eb-8291-602572d91eb7" />
+
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 Created By
 
