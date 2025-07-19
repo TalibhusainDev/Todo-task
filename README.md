@@ -30,13 +30,10 @@ This is a responsive and modern **Todo Task Manager** web application built usin
 Follow these steps to set up and run the project locally:
 
 1. **Switch Node version using NVM**
-   ```bash
-  - nvm use 18
+  - nvm use
   - npm install
   - npm run dev
 
-
----
 
 
 ## 📷 Demo
