@@ -7,7 +7,6 @@ import {
   Avatar,
   IconButton,
   Tooltip,
-  Zoom,
 } from "@mui/material";
 import { Delete, Edit, CalendarToday } from "@mui/icons-material";
 import type { Task } from "../types";
