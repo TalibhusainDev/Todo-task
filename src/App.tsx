@@ -8,7 +8,7 @@ import {
 } from "@mui/material";
 import "./App.css";
 import Home from "./Components/pages/Home";
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 function App() {
   const theme = createTheme({
@@ -54,6 +54,7 @@ function App() {
           </Box>
           <Home />
         </Container>
+        <SpeedInsights />
       </ThemeProvider>
     </>
   );
